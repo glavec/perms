@@ -1,6 +1,6 @@
 {
     "type": "project",
-    "name": "perms",
+    "name": "glavec/perms",
     "license": "proprietary",
     "require": {
         "php": "^7.1.3",
